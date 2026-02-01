@@ -1,5 +1,5 @@
 # Modem and bootloader repository
-**for Exynos 2100 Devices**
+**for Exynos 9830 Devices**
 
 To [download](https://github.com/UN1CA/proprietary_vendor_samsung_exynos2100/releases) the correct binaries for your firmware, check your device's model number and your current OMC sales code (ex. A546B**OXM**3AWF4):
 
